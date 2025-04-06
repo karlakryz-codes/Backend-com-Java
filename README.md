@@ -43,6 +43,8 @@ Ao final desta trilha, o objetivo é:
 - Integrar com bancos de dados relacionais e NoSQL
 - Criar um portfólio técnico com projetos reais
 
+## Vamos juntos nessa jornada
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
