@@ -1,4 +1,4 @@
-from pathlib import Path
+
 
 
 > # ☕ Estrutura Básica de um Programa Java  
