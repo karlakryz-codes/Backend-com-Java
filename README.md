@@ -45,9 +45,14 @@ Ao final desta trilha, o objetivo é:
 
 ## Vamos juntos nessa jornada
 
-## 📄 Resumos
+## 📚 Resumos de Estudo
 
-- [📘 Sintaxe Básica do Java](Resumos/sintaxe-basica.md)
+Aqui estão os resumos que venho criando durante meus estudos com Java:
+
+| 📄 Título                                       | 📁 Arquivo                                |
+|------------------------------------------------|-------------------------------------------|
+| ✅ Organização de Arquivos em Projetos Java     | [estrutura-projeto-java.md](Resumos/estrutura-projeto-java.md) |
+| ✨ Sintaxe Básica do Java                       | [sintaxe-basica.md](Resumos/sintaxe-basica.md)                |
 
 
 ## 📜 Licença
