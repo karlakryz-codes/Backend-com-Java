@@ -45,6 +45,11 @@ Ao final desta trilha, o objetivo é:
 
 ## Vamos juntos nessa jornada
 
+## 📄 Resumos
+
+- [📘 Sintaxe Básica do Java](Resumos/sintaxe-basica.md)
+
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
