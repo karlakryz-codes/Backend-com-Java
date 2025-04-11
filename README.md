@@ -1,6 +1,6 @@
-# Backend-com-Java "DIO"
+# Backend-com-Java "DIO"🚀 
  Java partindo da sintaxe básica até a implementação de uma API utilizando Spring .
- # 🚀 Santander Bootcamp 2024 - Backend com Java
+
 
 Este repositório contém meus estudos e projetos desenvolvidos durante o **Santander Bootcamp 2024 - Backend com Java**, realizado pela [DIO (Digital Innovation One)](https://www.dio.me/) em parceria com o Banco Santander. A trilha é focada em capacitar desenvolvedores para o mercado de tecnologia, com foco em **Java e desenvolvimento Back-end**.
 
@@ -58,5 +58,7 @@ Aqui estão os resumos que venho criando durante meus estudos com Java:
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+✨ “Quem caminha com Jesus nunca anda só.” 🙏
 
 
