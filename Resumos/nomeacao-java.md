@@ -1,4 +1,4 @@
-```
+````
 # 📘 Guia de Nomeações em Java
 
 🧠 Entender e aplicar as **convenções de nomeação em Java** é essencial para manter um código limpo, organizado e profissional. Essa prática facilita a leitura, manutenção e colaboração com outros desenvolvedores!
@@ -15,9 +15,10 @@
 public class ClienteFinanceiro { }
 
 public interface Calculavel { }
-```
+````
 
 📌 **Boas práticas**:
+
 - Nomes devem ser **claros e descritivos**
 - Evite **abreviações sem necessidade**
 
@@ -36,6 +37,7 @@ public String obterNomeCompleto() { }
 ```
 
 📌 **Boas práticas**:
+
 - Use **verbos no início** do nome: `get`, `set`, `calcular`, `listar`, etc.
 - Métodos booleanos devem indicar uma **pergunta**:
 
@@ -59,6 +61,7 @@ BigDecimal valorParcela;
 ```
 
 📌 **Boas práticas**:
+
 - Evite nomes genéricos como `x`, `data1`, `temp`, etc.
 - Prefira `quantidadeDeParcelas` ao invés de `qtd`.
 
@@ -67,7 +70,7 @@ BigDecimal valorParcela;
 ## 🔒 4. Nomeação de Constantes
 
 - Todas as letras em **maiúsculas**
-- Palavras separadas por **underline (_)**
+- Palavras separadas por **underline (\_)**
 - Declaradas como `static final`
 
 ```java
@@ -76,6 +79,7 @@ public static final String NOME_EMPRESA = "Líder Cobranças";
 ```
 
 📌 **Boas práticas**:
+
 - Constantes são usadas para **valores fixos**, como taxas, limites, URLs etc.
 
 ---
@@ -94,12 +98,12 @@ package br.com.karladev.projetos.financeiro;
 
 ## 🚫 O que evitar?
 
-| ❌ Errado              | ✅ Correto                 |
-|-----------------------|---------------------------|
-| `int x;`              | `int idade;`              |
-| `String a1b2;`        | `String nomeCompleto;`    |
-| `public class calc`   | `public class Calculadora`|
-| `boolean ativo();`    | `boolean isAtivo();`      |
+| ❌ Errado           | ✅ Correto                 |
+| ------------------- | -------------------------- |
+| `int x;`            | `int idade;`               |
+| `String a1b2;`      | `String nomeCompleto;`     |
+| `public class calc` | `public class Calculadora` |
+| `boolean ativo();`  | `boolean isAtivo();`       |
 
 ---
 
@@ -114,5 +118,8 @@ Seguir boas práticas de nomeação:
 ---
 
 Feito com 💙 por **Karla Cristina**  
-🚀 *Em constante evolução como desenvolvedora Java!*
+🚀 _Em constante evolução como desenvolvedora Java!_
+
+```
+
 ```
