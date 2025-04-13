@@ -53,6 +53,7 @@ Aqui estão os resumos que venho criando durante meus estudos com Java:
 |------------------------------------------------|-------------------------------------------|
 | ✅ Organização de Arquivos em Projetos Java     | [estrutura-projeto-java.md](Resumos/estrutura-projeto-java.md) |
 | ✨ Sintaxe Básica do Java                       | [sintaxe-basica.md](Resumos/sintaxe-basica.md)                |
+| 📄 Guia de Nomeações em Java                  | [nomeacao-java.md](Resumos/nomeacao-java.md) |
 
 
 ## 📜 Licença
