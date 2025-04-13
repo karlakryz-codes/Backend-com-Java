@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar e Executar Java (UTF-8)",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "cd src && javac -encoding UTF-8 -d ../bin MinhaClasse.java && cd ../bin && java MinhaClasse"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
